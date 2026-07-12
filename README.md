@@ -277,6 +277,17 @@ Think → Design → Build → Train → Evaluate → Deploy → Monitor → Sca
 </div>
 
 ---
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> *Note:* The snake animation requires a GitHub Action in your repository to generate it automatically. We'll configure that after the README is finished.
+
+---
 
 # 💡 My Engineering Mindset
 
