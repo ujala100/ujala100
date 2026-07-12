@@ -284,7 +284,7 @@ Think → Design → Build → Train → Evaluate → Deploy → Monitor → Sca
 
 </div>
 
-> *Note:* The snake animation requires a GitHub Action in your repository to generate it automatically. We'll configure that after the README is finished.
+
 
 ---
 
