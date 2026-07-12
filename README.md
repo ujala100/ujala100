@@ -15,7 +15,6 @@ Building the Next Generation of Intelligent Systems
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ujala100&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 <a href="https://www.linkedin.com/in/ujala-y-4a42b034a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
