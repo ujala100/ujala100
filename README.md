@@ -1,6 +1,11 @@
 <div align="center">
+👋 Hi, I'm Ujala Yadav
 
-# 👋 Hi, I'm Ujala Yadav
+AI Systems Engineer
+
+Building the Next Generation of Intelligent Systems
+
+Design • Build • Deploy • Scale
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Building+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Reinforcement+Learning;LLMs+%7C+RAG+%7C+AI+Agents;Generative+AI+%7C+MLOps+%7C+LLMOps;Backend+Engineering+%7C+System+Design;From+Research+to+Production" alt="Typing SVG"/>
 
@@ -33,35 +38,14 @@
 </a>
 
 </div>
-
 ---
-
 # 💫 About Me
 
 ```python
 class UjalaYadav:
 
     def __init__(self):
-
         self.role = "AI Systems Engineer"
-
-        self.focus = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Reinforcement Learning",
-            "Generative AI",
-            "Large Language Models",
-            "AI Agents",
-            "Retrieval-Augmented Generation",
-            "MLOps",
-            "LLMOps",
-            "Backend Engineering",
-            "Full Stack AI",
-            "System Design"
-        ]
-
         self.current_mission = "Building Production-Ready Intelligent Systems"
 
         self.interests = [
@@ -71,13 +55,10 @@ class UjalaYadav:
             "Open Source",
             "Cloud Deployment"
         ]
-
     def life_goal(self):
         return "Design • Build • Deploy • Scale Intelligent Systems"
-
 me = UjalaYadav()
 ```
-
 ---
 
 ## 🚀 Mission
@@ -89,31 +70,10 @@ My goal is to engineer intelligent systems that move beyond research notebooks i
 I enjoy transforming ideas into reliable end-to-end AI products that are intelligent, maintainable and production-ready.
 
 ---
-
 ## 🌍 Open Source
-
 > Passionate about contributing to Open Source by collaborating with developers, improving projects, solving problems and continuously learning through community-driven development.
-
 ---
-
-## 🎯 Current Focus
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔥 Deep Learning
-- 👁️ Computer Vision
-- 🎮 Reinforcement Learning
-- 💬 Large Language Models
-- 🚀 AI Agents
-- 📚 Retrieval-Augmented Generation
-- ⚙️ MLOps & LLMOps
-- ☁️ Cloud Deployment
-- 🏗️ Backend Engineering
-- 🏛️ System Design
-- 📈 Building End-to-End Production AI Systems
-
----
-# 💻 Tech Arsenal
+# 💻 Engineering  Ecosystem
 
 <div align="center">
 
@@ -193,8 +153,174 @@ I enjoy transforming ideas into reliable end-to-end AI products that are intelli
 ### ☁️ Cloud & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes"/>
+</p>
 
-I enjoy contributing to open-source software by improving documentation, fixing issues, developing new features, reviewing code, and collaborating with developers across the world.
+---
 
-I believe that great software is built through collaboration, curiosity, and continuous learning.
+### 📦 Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+</p>
+
+---
+
+### 📊 Data Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
+
+---
+
+### 🔄 MLOps & LLMOps
+
+<p>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
+</p>
+
+---
+
+### 🛠️ Software Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+<img src="https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-FF5722?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+# 🏗️ Engineering Philosophy
+
+```text
+Think → Design → Build → Train → Evaluate → Deploy → Monitor → Scale
+```
+
+> "Great AI isn't just about training models. It's about engineering reliable systems that create real-world impact."
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ujala100&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujala100&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujala100&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ujala100&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujala100&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ujala100&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# ⚡ Development Insights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujala100&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujala100&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujala100&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> **Note:** The snake animation requires a GitHub Action in your repository to generate it automatically. We'll configure that after the README is finished.
+
+---
+
+
+# 💡 My Engineering Mindset
+
+```text
+Learn Deeply
+      │
+      ▼
+Think Systemically
+      │
+      ▼
+Build End-to-End
+      │
+      ▼
+Deploy Reliably
+      │
+      ▼
+Measure Performance
+      │
+      ▼
+Improve Continuously
+```
+
+---
+
+<div align="center">
+
+### 🚀 "Turning ideas into intelligent systems, one commit at a time."
+
+</div>
+
+## 💡 Engineering Philosophy
+
+> **"Artificial Intelligence creates value when it's engineered into reliable, scalable, and impactful systems."**
+
+---
+
+### Thanks for visiting my profile!
+
+⭐ If you find my work interesting, feel free to explore my repositories, share feedback, or collaborate on exciting AI projects.
