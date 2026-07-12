@@ -8,11 +8,13 @@ AI Systems Engineer
 
 <h3 align="center">
 Building the Next Generation of Intelligent Systems
-</p>
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Building+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Reinforcement+Learning;LLMs+%7C+RAG+%7C+AI+Agents;Generative+AI+%7C+MLOps+%7C+LLMOps;Backend+Engineering+%7C+System+Design;From+Research+to+Production" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Building+Intelligent+Systems;ML+%7C+DL+%7C+LLMs+%7C+RAG"/>
 
 ### ⚡ Engineering Intelligence • Building Production-Ready AI Systems ⚡
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=ujala100&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
@@ -41,7 +43,9 @@ Building the Next Generation of Intelligent Systems
 </a>
 
 </div>
+
 ---
+
 # 💫 About Me
 
 ```python
@@ -60,23 +64,29 @@ class UjalaYadav:
         ]
     def life_goal(self):
         return "Design • Build • Deploy • Scale Intelligent Systems"
+
 me = UjalaYadav()
 ```
+
 ---
 
 ## 🚀 Mission
 
 I believe Artificial Intelligence becomes valuable only when it solves real-world problems.
 
-My goal is to engineer intelligent systems that move beyond research notebooks into scalable production applications through Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, Generative AI, AI Agents, Large Language Models, MLOps, Cloud Computing and Software Engineering.
+My goal is to engineer intelligent systems that move beyond research notebooks into scalable production applications through Machine Learning, Deep Learning, Reinforcement Learning, and Computer Vision.
 
 I enjoy transforming ideas into reliable end-to-end AI products that are intelligent, maintainable and production-ready.
 
 ---
+
 ## 🌍 Open Source
+
 > Passionate about contributing to Open Source by collaborating with developers, improving projects, solving problems and continuously learning through community-driven development.
+
 ---
-# 💻 Engineering  Ecosystem
+
+# 💻 Engineering Ecosystem
 
 <div align="center">
 
@@ -218,6 +228,9 @@ Think → Design → Build → Train → Evaluate → Deploy → Monitor → Sca
 ```
 
 > "Great AI isn't just about training models. It's about engineering reliable systems that create real-world impact."
+
+---
+
 # 📊 GitHub Dashboard
 
 <div align="center">
@@ -242,17 +255,20 @@ Think → Design → Build → Train → Evaluate → Deploy → Monitor → Sca
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujala100&theme=tokyo-night&hide_border=true"/>
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujala100&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
+
 # 🏆 GitHub Achievements
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ujala100&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ujala100&theme=onedark&row=1&column=6&no-frame=true)
 
 </div>
+
 ---
 
 # ⚡ Development Insights
@@ -272,19 +288,6 @@ Think → Design → Build → Train → Evaluate → Deploy → Monitor → Sca
 </div>
 
 ---
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> **Note:** The snake animation requires a GitHub Action in your repository to generate it automatically. We'll configure that after the README is finished.
-
----
-
 
 # 💡 My Engineering Mindset
 
