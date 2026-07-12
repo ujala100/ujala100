@@ -6,7 +6,7 @@
 AI Systems Engineer
 </h3>
 
-<p align="center">
+<h3 align="center">
 Building the Next Generation of Intelligent Systems
 </p>
 
@@ -250,7 +250,7 @@ Think → Design → Build → Train → Evaluate → Deploy → Monitor → Sca
 # 🏆 GitHub Achievements
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ujala100&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ujala100&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 ---
