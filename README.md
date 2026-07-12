@@ -244,10 +244,15 @@ Think → Design → Build → Train → Evaluate → Deploy → Monitor → Sca
 </div>
 
 ---
-#github achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ujala100&theme=onedark&no-frame=true&row=2&column=4" />
-</p>
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ujala100&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
 
 # ⚡ Development Insights
 
