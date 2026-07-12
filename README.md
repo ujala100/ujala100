@@ -10,8 +10,7 @@ AI Systems Engineer
 Building the Next Generation of Intelligent Systems
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Building+Intelligent+Systems;ML+%7C+DL+%7C+LLMs+%7C+RAG"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Building+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Reinforcement+Learning;LLMs+%7C+RAG+%7C+AI+Agents;Generative+AI+%7C+MLOps+%7C+LLMOps;Backend+Engineering+%7C+System+Design;From+Research+to+Production" alt="Typing SVG"/>
 ### ⚡ Engineering Intelligence • Building Production-Ready AI Systems ⚡
 
 <div align="center">
