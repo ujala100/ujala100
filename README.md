@@ -1,11 +1,14 @@
-<div align="center">
-👋 Hi, I'm Ujala Yadav
+<h1 align="center">
+✨ Ujala Yadav ✨
+</h1>
 
+<h3 align="center">
 AI Systems Engineer
+</h3>
 
+<p align="center">
 Building the Next Generation of Intelligent Systems
-
-Design • Build • Deploy • Scale
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Building+Intelligent+Systems;Machine+Learning+%7C+Deep+Learning;Computer+Vision+%7C+Reinforcement+Learning;LLMs+%7C+RAG+%7C+AI+Agents;Generative+AI+%7C+MLOps+%7C+LLMOps;Backend+Engineering+%7C+System+Design;From+Research+to+Production" alt="Typing SVG"/>
 
@@ -245,13 +248,11 @@ Think → Design → Build → Train → Evaluate → Deploy → Monitor → Sca
 
 ---
 # 🏆 GitHub Achievements
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ujala100&theme=tokyonight&no-frame=true&row=2&column=4"/>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ujala100&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 ---
 
 # ⚡ Development Insights
