@@ -1,5 +1,5 @@
 <div align="center">
-👋 Hi, I'm Ujala Yadav
+##👋 Hi, I'm Ujala Yadav
 
 AI Systems Engineer
 
@@ -244,7 +244,10 @@ Think → Design → Build → Train → Evaluate → Deploy → Monitor → Sca
 </div>
 
 ---
-
+#github achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ujala100&theme=onedark&no-frame=true&row=2&column=4" />
+</p>
 
 # ⚡ Development Insights
 
