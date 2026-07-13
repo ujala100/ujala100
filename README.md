@@ -258,23 +258,7 @@ Think → Design → Build → Train → Evaluate → Deploy → Monitor → Sca
 </div>
 
 ---
-# ⚡ Development Insights
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ujala100&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ujala100&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ujala100&theme=tokyonight"/>
-
-</div>
-
----
 # 🐍 Contribution Snake
 
 <div align="center">
