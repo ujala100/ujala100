@@ -229,25 +229,23 @@ Think → Design → Build → Train → Evaluate → Deploy → Monitor → Sca
 
 ---
 
-# 📊 GitHub Dashboard
+### 📊 GitHub Dashboard
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ujala100&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ujala100&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ujala100&theme=tokyonight&hide_border=true"/>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ujala100&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
-## 📈 Contribution Activity
+### 📈 Contribution Activity
 
-<div align="center">
-
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujala100&theme=github-compact&hide_border=true&area=true)](https://github.com/ujala100)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujala100&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
