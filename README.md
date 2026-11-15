@@ -241,11 +241,11 @@ Think → Design → Build → Train → Evaluate → Deploy → Monitor → Sca
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ujala100&theme=tokyo-night&hide_border=true"/>
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ujala100&theme=github-compact&hide_border=true&area=true)](https://github.com/ujala100)
 
 </div>
 
